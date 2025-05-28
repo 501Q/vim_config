@@ -11,7 +11,7 @@ call plug#begin()
 Plug 'preservim/nerdtree', { 'on': 'NERDTreeToggle' }
 
 " Or build from source code by using npm
-Plug 'neoclide/coc.nvim', {'branch': 'master', 'do': 'npm ci'}
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
 Plug 'jackguo380/vim-lsp-cxx-highlight'
 
@@ -21,7 +21,7 @@ Plug 'vim-airline/vim-airline'
 " colorscheme
 Plug 'joshdick/onedark.vim'
 
-Plug 'cdelledonne/vim-cmake'
+" Plug 'cdelledonne/vim-cmake'
 
 Plug 'tpope/vim-fugitive'
 
