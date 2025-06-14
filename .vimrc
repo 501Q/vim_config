@@ -38,6 +38,7 @@ colorscheme onedark
 set background=dark
 
 set number
+set relativenumber
 set expandtab
 set tabstop=2
 set shiftwidth=2
